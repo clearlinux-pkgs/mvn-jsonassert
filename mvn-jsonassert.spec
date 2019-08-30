@@ -4,7 +4,7 @@
 #
 Name     : mvn-jsonassert
 Version  : 1.3.0
-Release  : 2
+Release  : 3
 URL      : https://github.com/skyscreamer/JSONassert/archive/jsonassert-1.3.0.tar.gz
 Source0  : https://github.com/skyscreamer/JSONassert/archive/jsonassert-1.3.0.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/skyscreamer/jsonassert/1.3.0/jsonassert-1.3.0.jar
